@@ -1,4 +1,4 @@
-class RailFenceCiher:
+class RailFenceCipher:
     
     def __init__ (self): 
         pass
